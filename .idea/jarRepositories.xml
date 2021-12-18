@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="atexo_repository" />
+      <option name="name" value="atexo_repository" />
+      <option name="url" value="https://archiva-ovh.local-trust.com/repository/atexo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atexo" />
+      <option name="name" value="atexo" />
+      <option name="url" value="https://archiva-ovh.local-trust.com/repository/atexo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshot-repo" />
+      <option name="name" value="snapshot-repo" />
+      <option name="url" value="https://archiva-ovh.local-trust.com/repository/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sharpink-central" />
+      <option name="name" value="default-maven-virtual" />
+      <option name="url" value="https://sharpink.jfrog.io/artifactory/default-maven-virtual" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository jboss" />
+      <option name="name" value="repository jboss" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="third-party" />
+      <option name="name" value="third-party" />
+      <option name="url" value="https://archiva-ovh.local-trust.com/repository/proxy" />
+    </remote-repository>
+  </component>
+</project>
